@@ -9,7 +9,7 @@ package codingninja;
 class Node {
     public int data;
     public Node next;
-
+    public Node child;
     Node() {
         this.data = 0;
         this.next = null;
