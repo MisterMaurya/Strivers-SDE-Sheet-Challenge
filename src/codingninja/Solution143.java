@@ -1,5 +1,7 @@
 package codingninja;
 
+import codingninja.helperclass.TreeNode;
+
 import java.util.*;
 import java.io.*;
 
